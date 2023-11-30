@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/mphq9397/public_html/tijara.mphstar.my.id/
-    - /bin/cp -r * $DEPLOYPATH
+    - /bin/cp -r . $DEPLOYPATH
