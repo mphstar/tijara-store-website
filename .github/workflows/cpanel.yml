@@ -1,3 +1,4 @@
+---
 deployment:
   tasks:
     - export DEPLOYPATH=/home/mphq9397/public_html/tijara.mphstar.tech
