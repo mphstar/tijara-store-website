@@ -14,6 +14,7 @@ https://tijara.mphstar.my.id
 ## Screenshots
 
 ![App Screenshot](https://github.com/mphstar/wg-optical/assets/99969883/3b9a9625-d076-4ea6-832c-12dbbbd3bd0e)
+![image](https://github.com/mphstar/wg-optical/assets/99969883/ac401da8-9535-4a41-98cd-44fa5ff5b16a)
 
 
 
